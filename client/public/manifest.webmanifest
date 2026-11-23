@@ -1,0 +1,10 @@
+{
+  "name": "Sahayak",
+  "short_name": "Sahayak",
+  "description": "Community emergency resource coordination",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1421",
+  "theme_color": "#0b1421",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

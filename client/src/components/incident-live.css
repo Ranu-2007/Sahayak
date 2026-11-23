@@ -1,0 +1,3 @@
+.incident-detail-link{border:0;background:transparent;color:#4f7c59;font-size:9px;font-weight:700;text-decoration:underline;text-underline-offset:2px;padding:5px 0 0;cursor:pointer}.incident-live-card{display:flex;flex-direction:column;align-items:flex-start;gap:5px}
+.incident-dashboard-filters{display:flex;flex-wrap:wrap;gap:8px;padding:10px 12px;border-top:1px solid #edf0eb}.incident-dashboard-filters label{display:flex;flex-direction:column;gap:4px;color:#89928a;font-size:8px;flex:1 1 120px}.incident-dashboard-filters select,.incident-dashboard-filters input{height:30px;min-width:0;border:1px solid #e5eae4;border-radius:4px;background:#fff;padding:0 8px;color:#59655b;font-size:9px}.incident-live-stats{row-gap:8px}
+.incident-dot{background:#b74c3c}
